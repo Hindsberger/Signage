@@ -1,5 +1,5 @@
 #!/bin/bash
-#Opsæt af signage PI
+#Opsæt af signage rasp PI 
 cd /
 cd home/pi
 wget https://app.q-play.net/releases/linux/armv7l/q-play.sh
