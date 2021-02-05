@@ -1,4 +1,5 @@
-###############################################################################
+#########################################################################################
+
 #Opsætning
 
 Download PI image: https://downloads.raspberrypi.org/raspios_full_armhf/images/raspios_full_armhf-2021-01-12/2021-01-11-raspios-buster-armhf-full.zip
@@ -23,6 +24,8 @@ Genstart PI'en efter endt opsæt
 
 #########################################################################################
 
+#Teamviewer
+
 Unzip og placer mappen "Signage" på skrivebordet.
 
 Gå til "Signage/Script" og Tryk F4 (Mappe åbnes i terminal) / eller cd /home/pi/Desktop/Signage/Script
@@ -40,8 +43,11 @@ Teamviewer downloades og installeres.
 Lav herefter opsætningen af teamviewer
 
 Lad terminal vinduet stå åbent og test forbindelsen.
-##############################################################################
+
+########################################################################################
+
 #Q-play installation
+
 Gå tilbage til Script Mappen 
 
 Tryk F4 (Åbner mappe i ny terminal) / eller cd /home/pi/Desktop/Signage/Script
